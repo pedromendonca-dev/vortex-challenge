@@ -1,0 +1,43 @@
+.relatorio-container{
+  max-width: 80%;
+  background-color: #F2F2F2;
+  border-radius: 20px;
+  padding: 36px 64px;
+  margin-left: 3.5%;
+}
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+}
+
+td, th {
+  padding: 8px;
+  text-align: left;
+  border-top: 2px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  font-family:'Montserrat', sans-serif;
+}
+tr:not(:last-child) {
+  border-bottom: 1px solid #ddd;}
+.cabeçalho-container {
+  font-weight: bold;
+  border: 5px;
+  border-color: aquamarine;
+}
+
+td:first-child{
+  border-left: 1px solid #ddd;
+  border-start-start-radius: 20px;
+  border-bottom: 1px solid #ddd;
+  border-bottom-left-radius: 20px;
+}
+td:last-child{
+  border-right: 1px solid #ddd;
+  border-top-right-radius: 20px;
+  border-bottom: 1px solid #ddd;
+  border-bottom-right-radius: 20px;
+}
+.resultado{
+  font-weight: bold;
+}

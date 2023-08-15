@@ -20,4 +20,4 @@ existam) e somar o salário de todos os funcionários desse cargo.
 
 
 <h1>Tecnologias</h1>
-<p>React,HTML,Css e Javascrip</p>
+<p>React,HTML,Css e Javascript</p>
